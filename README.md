@@ -1,5 +1,4 @@
 # Eternia Clothing
-</head>
 <body>
 
 <header>
